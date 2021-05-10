@@ -42,7 +42,7 @@
     "simple-git": "1.92.0"
   },
   "devDependencies": {
-    "less": "3.8.0",
+    "less": "4.1.1",
     "npm-run-all": "^4.1.3"
   }
 }
