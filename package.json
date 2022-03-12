@@ -39,7 +39,7 @@
     "qrcode": "1.2.0",
     "request": "2.88.0",
     "serve-favicon": "^2.5.0",
-    "simple-git": "1.92.0"
+    "simple-git": "3.3.0"
   },
   "devDependencies": {
     "less": "3.8.0",
