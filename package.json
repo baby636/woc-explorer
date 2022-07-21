@@ -20,7 +20,7 @@
     "url": "git+https://github.com/janoside/btc-rpc-explorer.git"
   },
   "dependencies": {
-    "bitcoin-core": "2.0.0",
+    "bitcoin-core": "3.1.0",
     "bitcoinjs-lib": "3.3.2",
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
