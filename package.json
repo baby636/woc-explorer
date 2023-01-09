@@ -25,7 +25,7 @@
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "crypto-js": "3.1.9-1",
-    "debug": "~2.6.0",
+    "debug": "~3.1.0",
     "decimal.js": "7.2.3",
     "electrum-client": "github:chaintools/node-electrum-client#43a999036f9c5",
     "express": "^4.16.4",
